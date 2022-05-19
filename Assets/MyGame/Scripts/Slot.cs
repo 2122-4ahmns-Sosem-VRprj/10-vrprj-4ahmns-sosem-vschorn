@@ -33,12 +33,13 @@ public class Slot : MonoBehaviour
         originalColor = slotImage.color;
     }
 
+    [System.Obsolete]
     private void OnTriggerStay(Collider other)
     {
         if (ItemInSlot != null) return;
         GameObject obj = other.gameObject;
         if (!IsItem(obj)) return;
-        if (m_LeftBaseController is XRGrabInteractable)
+        if (m_LeftBaseController.active)
                 {
             InsertItem(obj);
         }
