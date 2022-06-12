@@ -49,10 +49,11 @@ Der Spieler muss die Eier einsammeln. Wenn er aber ein falsches Ei einsammelt, w
  https://www.youtube.com/watch?v=BWNx0VQJjMY
 - Sparkling Fairy Shimmer - Sound Effect (HD)
   https://www.youtube.com/watch?v=dxhXHAGVLww
-  
-  -AllSky Free - 10 Sky / Skybox Set
-  -Grass And Flowers Pack 1
-  -Stylized Wood Texture
+
+
+  - AllSky Free - 10 Sky / Skybox Set
+  - Grass And Flowers Pack 1
+  - Stylized Wood Texture
   
 
 ### Development platform: 
